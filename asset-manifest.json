@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/TEST-APP-DIAGNAL/static/css/main.27068805.chunk.css",
-    "main.js": "/.github.io/TEST-APP-DIAGNAL/static/js/main.97d91414.chunk.js",
-    "main.js.map": "/.github.io/TEST-APP-DIAGNAL/static/js/main.97d91414.chunk.js.map",
-    "runtime~main.js": "/.github.io/TEST-APP-DIAGNAL/static/js/runtime~main.65da39cc.js",
-    "runtime~main.js.map": "/.github.io/TEST-APP-DIAGNAL/static/js/runtime~main.65da39cc.js.map",
-    "static/js/2.de89499e.chunk.js": "/.github.io/TEST-APP-DIAGNAL/static/js/2.de89499e.chunk.js",
-    "static/js/2.de89499e.chunk.js.map": "/.github.io/TEST-APP-DIAGNAL/static/js/2.de89499e.chunk.js.map",
-    "index.html": "/.github.io/TEST-APP-DIAGNAL/index.html",
-    "precache-manifest.008f8bd5685be634c587f141cef4c68c.js": "/.github.io/TEST-APP-DIAGNAL/precache-manifest.008f8bd5685be634c587f141cef4c68c.js",
-    "service-worker.js": "/.github.io/TEST-APP-DIAGNAL/service-worker.js",
-    "static/css/main.27068805.chunk.css.map": "/.github.io/TEST-APP-DIAGNAL/static/css/main.27068805.chunk.css.map"
+    "main.css": "/TEST-APP-DIAGNAL/static/css/main.27068805.chunk.css",
+    "main.js": "/TEST-APP-DIAGNAL/static/js/main.97d91414.chunk.js",
+    "main.js.map": "/TEST-APP-DIAGNAL/static/js/main.97d91414.chunk.js.map",
+    "runtime~main.js": "/TEST-APP-DIAGNAL/static/js/runtime~main.1f17f509.js",
+    "runtime~main.js.map": "/TEST-APP-DIAGNAL/static/js/runtime~main.1f17f509.js.map",
+    "static/js/2.de89499e.chunk.js": "/TEST-APP-DIAGNAL/static/js/2.de89499e.chunk.js",
+    "static/js/2.de89499e.chunk.js.map": "/TEST-APP-DIAGNAL/static/js/2.de89499e.chunk.js.map",
+    "index.html": "/TEST-APP-DIAGNAL/index.html",
+    "precache-manifest.4ef3c8d4fe0769fbd105737ebd26e2a2.js": "/TEST-APP-DIAGNAL/precache-manifest.4ef3c8d4fe0769fbd105737ebd26e2a2.js",
+    "service-worker.js": "/TEST-APP-DIAGNAL/service-worker.js",
+    "static/css/main.27068805.chunk.css.map": "/TEST-APP-DIAGNAL/static/css/main.27068805.chunk.css.map"
   }
 }
