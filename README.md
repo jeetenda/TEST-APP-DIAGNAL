@@ -16,5 +16,6 @@ features ----------------------
 2 tailwind css.   
 3 progressive and responsive images.   
 4 lazy loading.   
-5 responsive for mobile.    
+5 responsive for mobile.      
 
+** some ui pending from css side 
