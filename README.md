@@ -1,5 +1,8 @@
 
-<!--  
+
+ # TEST-APP-DIAGNAL
+
+  
 jeetendra.chauhan05@gmail.com
 
  how to install app-------------
@@ -15,6 +18,3 @@ features ----------------------
 4 lazy loading
 5 responsive for mobile
 
- -->
-
- # TEST-APP-DIAGNAL
