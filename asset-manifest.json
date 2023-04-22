@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TEST-APP-DIAGNAL/static/css/main.27068805.chunk.css",
-    "main.js": "/TEST-APP-DIAGNAL/static/js/main.be45cb97.chunk.js",
-    "main.js.map": "/TEST-APP-DIAGNAL/static/js/main.be45cb97.chunk.js.map",
+    "main.js": "/TEST-APP-DIAGNAL/static/js/main.9bc50813.chunk.js",
+    "main.js.map": "/TEST-APP-DIAGNAL/static/js/main.9bc50813.chunk.js.map",
     "runtime~main.js": "/TEST-APP-DIAGNAL/static/js/runtime~main.1f17f509.js",
     "runtime~main.js.map": "/TEST-APP-DIAGNAL/static/js/runtime~main.1f17f509.js.map",
-    "static/js/2.671eca2b.chunk.js": "/TEST-APP-DIAGNAL/static/js/2.671eca2b.chunk.js",
-    "static/js/2.671eca2b.chunk.js.map": "/TEST-APP-DIAGNAL/static/js/2.671eca2b.chunk.js.map",
+    "static/js/2.6340a880.chunk.js": "/TEST-APP-DIAGNAL/static/js/2.6340a880.chunk.js",
+    "static/js/2.6340a880.chunk.js.map": "/TEST-APP-DIAGNAL/static/js/2.6340a880.chunk.js.map",
     "index.html": "/TEST-APP-DIAGNAL/index.html",
-    "precache-manifest.b160cef5db9539a7086fe02567960f64.js": "/TEST-APP-DIAGNAL/precache-manifest.b160cef5db9539a7086fe02567960f64.js",
+    "precache-manifest.87639dad14e2f92c34cb55dbc5cec8fd.js": "/TEST-APP-DIAGNAL/precache-manifest.87639dad14e2f92c34cb55dbc5cec8fd.js",
     "service-worker.js": "/TEST-APP-DIAGNAL/service-worker.js",
     "static/css/main.27068805.chunk.css.map": "/TEST-APP-DIAGNAL/static/css/main.27068805.chunk.css.map"
   }
