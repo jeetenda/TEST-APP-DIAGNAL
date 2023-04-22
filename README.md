@@ -19,7 +19,7 @@ features ----------------------
 4 lazy loading.   
 5 responsive for mobile.      
 
-** some ui pending from css side 
+** some ui pending from css side but all funtionalty working fine inclusing lazy loading, search, responsive image, progressive image , redux with thunk api call, smooth scrolling, tailwind css 
 
 ![image](https://user-images.githubusercontent.com/45250795/233807434-81b14022-1556-424c-8936-9e67741a2688.png)
 ![image](https://user-images.githubusercontent.com/45250795/233807475-8d8db49e-0460-4e38-97eb-05a9428ce2cc.png)
