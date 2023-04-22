@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TEST-APP-DIAGNAL/static/css/main.27068805.chunk.css",
+    "main.css": "/TEST-APP-DIAGNAL/static/css/main.92758507.chunk.css",
     "main.js": "/TEST-APP-DIAGNAL/static/js/main.9bc50813.chunk.js",
     "main.js.map": "/TEST-APP-DIAGNAL/static/js/main.9bc50813.chunk.js.map",
     "runtime~main.js": "/TEST-APP-DIAGNAL/static/js/runtime~main.1f17f509.js",
@@ -8,8 +8,8 @@
     "static/js/2.6340a880.chunk.js": "/TEST-APP-DIAGNAL/static/js/2.6340a880.chunk.js",
     "static/js/2.6340a880.chunk.js.map": "/TEST-APP-DIAGNAL/static/js/2.6340a880.chunk.js.map",
     "index.html": "/TEST-APP-DIAGNAL/index.html",
-    "precache-manifest.87639dad14e2f92c34cb55dbc5cec8fd.js": "/TEST-APP-DIAGNAL/precache-manifest.87639dad14e2f92c34cb55dbc5cec8fd.js",
+    "precache-manifest.a997ba6463689e1e00239fd5c77d9126.js": "/TEST-APP-DIAGNAL/precache-manifest.a997ba6463689e1e00239fd5c77d9126.js",
     "service-worker.js": "/TEST-APP-DIAGNAL/service-worker.js",
-    "static/css/main.27068805.chunk.css.map": "/TEST-APP-DIAGNAL/static/css/main.27068805.chunk.css.map"
+    "static/css/main.92758507.chunk.css.map": "/TEST-APP-DIAGNAL/static/css/main.92758507.chunk.css.map"
   }
 }
