@@ -1,0 +1,46 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background-color: black;
+  color: whitesmoke;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.column {
+  /* flex: 33%; */
+  max-width: 30%;
+  padding:  5px;
+}
+.fullimg{
+  width: 100%;
+  border-radius: 0px !important;
+}
+h6{
+  color: #c3bbbb;
+}
+input{
+  margin-right: 0px;
+  width: 50%;
+  color: black !important;
+}
+
+.headerimg{
+width: 5%;
+}
+.search{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
